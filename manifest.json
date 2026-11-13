@@ -1,0 +1,9 @@
+{
+  "name": "NoScreenShake",
+  "version_number": "1.1.1",
+  "website_url": "https://rombusz.dev/contacts/bug-report/?mod=no-screen-shake",
+  "description": "Disables camera shake during gameplay.",
+  "dependencies": [
+    "BepInEx-BepInExPack_PEAK-5.4.75301"
+  ]
+}
