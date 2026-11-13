@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <AssemblyName>NoScreenShake</AssemblyName>
+    <AssemblyTitle>NoScreenShake</AssemblyTitle>
+    <Authors>Rombusz</Authors>
+    <Company>Rombusz</Company>
+    <Description>Disables camera shake during gameplay.</Description>
+    <Version>1.1.1</Version>
+  </PropertyGroup>
+</Project>
